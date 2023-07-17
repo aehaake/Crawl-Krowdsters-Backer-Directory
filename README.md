@@ -8,6 +8,8 @@ This project consists of a Python script that automates the login process to the
 
 The script automates the process of logging in to the Krowdster platform, navigating to the Backer Directory, and scraping data about backers. The scraped data includes the number of projects backed, backer's name, location, and associated URLs. The data is then stored in an Excel file for further use.
 
+This might be usefull if you want to directly promote your own Kickstarter campaign by reaching out to Kickstarter users.
+
 To simulate human-like interaction with the webpage, the script also generates and performs mouse movement patterns.
 
 ## How To Run The Project?
